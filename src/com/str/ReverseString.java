@@ -3,7 +3,7 @@ package com.str;
 public class ReverseString {
 	public static void main(String[] args) {
 		//input 
-		String str="Anil";
+		String str="India is my country";
 		String revStr=reverseString3(str);
 		System.out.println("Reverse String is "+revStr);
 	}
